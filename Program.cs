@@ -1,5 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
+﻿
 namespace Calculator
 {
     internal class Program
@@ -87,8 +86,8 @@ namespace Calculator
     }
     public class Calculate
     {
-        public double A { get; set; }
-        public double B { get; set; }
+        private double A { get; set; }
+        private double B { get; set; }
 
         public Calculate(double a, double b, IMathOperation operation)
         {
