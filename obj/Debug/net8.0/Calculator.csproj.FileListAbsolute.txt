@@ -1,0 +1,15 @@
+D:\Projects\Hillel\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Projects\Hillel\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Projects\Hillel\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Projects\Hillel\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Projects\Hillel\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Projects\Hillel\Calculator\obj\Debug\net8.0\ref\Calculator.dll
