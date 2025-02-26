@@ -44,7 +44,7 @@ namespace Calculator
                 Console.WriteLine($"a: {a} and b:{b}\nchoose the opetation:\na - Addition\ns - subtraction\nm - Multiplication\nd - Division");
 
 
-                string choose = Convert.ToString(Console.ReadLine()).ToLower();
+                string choose = (Console.ReadLine() ?? "").ToLower(); //prevents NullReferenceException
 
 
                 switch (choose)
@@ -70,16 +70,15 @@ namespace Calculator
 
                 Console.WriteLine($"c - continue with a = {a}\ns - stop\nn - new number");
 
-                choose = Convert.ToString(Console.ReadLine()).ToLower();
+                choose = (Console.ReadLine() ?? "").ToLower(); //prevents NullReferenceException
+
 
                 if (choose == "c")
                     new_a = false;
                 else if (choose == "s")
                     break;
                 else
-                    new_a = true;
-
-                    
+                    new_a = true;                    
             }
             Console.WriteLine("end!!!");  
         }
